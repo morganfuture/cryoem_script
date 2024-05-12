@@ -8,3 +8,6 @@ python recenter_particle.py -h
 ```bash
 python rename_file_in_batch.py -h
 ```
+#### script to plot fsc from Relion fsc data
+#### usage:
+###### open the plot_fsc_relion.py and change the fsc filename、resolution、output_figure name
