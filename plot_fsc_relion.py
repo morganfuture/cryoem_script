@@ -2,7 +2,7 @@
 """
 Created on Sun May 12 18:40:07 2024
 
-@author: baymo
+@author: Aimin Cheng at Peking University
 """
 
 #!/usr/bin/python
