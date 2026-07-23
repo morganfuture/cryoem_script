@@ -22,3 +22,8 @@ python csparc2relionstar_parser.py -h
 ```bash
 python3 relion2d_to_cryolo.py -h
 ```
+#### 6. mapping particles output from cisTEM to its original input file and restore the lost parameter, such as _rlnMicrographName, _rlnCoordinateX, _rlnCoordinateY. The output particle star file can be used for downstream processing in RELION.
+#### usage:
+``` bash
+python3 cistem2relion_star.py -h
+```
