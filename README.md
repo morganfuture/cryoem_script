@@ -27,3 +27,8 @@ python3 relion2d_to_cryolo.py -h
 ``` bash
 python3 cistem2relion_star.py -h
 ```
+#### 7. desymmetrize particle star file after particle Cn symmetry expansion and focused-3D classification. The output particle is C1 and can be used for homogenous or non-uniform refinement further.
+#### usage:
+``` bash
+python desymmetrize_star.py <input.star> <output.star>
+```
