@@ -14,6 +14,11 @@ python rename_file_in_batch.py -h
 
 #### 4. script to convert cryosparc cs format into relion star format
 #### usage:
-``` bash
+```bash
 python csparc2relionstar_parser.py -h
+```
+#### 5. script to convert relion particles.star (good classes) selected from 2D classification to crYOLO-compatible (.cbox or .box) format for model training and particle picking  
+#### usage:
+```bash
+python3 relion2d_to_cryolo.py -h
 ```
